@@ -65,6 +65,7 @@ Verifiable change history
 Independent validation of key lifecycle actions
 
 ### Project Structure
+```
 root/
 │
 ├── frontend/               # Next.js application
@@ -90,7 +91,7 @@ root/
 │   └── Cargo.toml
 │
 └── docker-compose.yml
-
+```
 
 ### Data Model Highlights
 Users → authenticated system participants
